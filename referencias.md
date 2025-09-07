@@ -1,5 +1,8 @@
 # Referências
 
+- PNUD BRASIL. Objetivos de Desenvolvimento Sustentável. 2025. Disponível em: https://www.undp.org/pt/brazil/objetivos-de-desenvolvimento-sustentavel. 
+Acesso em: 24 de agosto de 2025. 
+
 - INFOSANBAS. Caracterização social, territorial e econômica - Cristália – MG. 2025. Disponível em: https://infosanbas.org.br/municipio/cristalia-mg/
 Acesso em: 30 de agosto 2025.
 
