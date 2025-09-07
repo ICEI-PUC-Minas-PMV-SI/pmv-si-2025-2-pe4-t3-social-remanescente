@@ -1,12 +1,53 @@
 ## Documentação de Contexto
- 
-O município de Cristália-MG enfrenta diversos desafios sociais, especialmente relacionados à vulnerabilidade de crianças de famílias em situação de carência financeira. Nesse cenário, a Igreja Remanescente Família de Deus desenvolve um projeto social de grande valor comunitário, atuando diretamente no suporte a essas crianças.
- 
-O projeto funciona com dois encontros semanais, realizados às terças-feiras e aos sábados. As crianças são transportadas até a igreja em veículos conduzidos por motoristas voluntários, uma vez que a maioria dos pais não possui condições financeiras para levá-las. Durante os encontros, as crianças recebem ensinos bíblicos fundamentados na Palavra de Deus, participam de palestras educativas sobre temas diversos e relevantes para sua formação, recebem doações de roupas coletadas e organizadas pela comunidade da igreja e também cestas básicas, em que os membros contribuem periodicamente com alimentos. Além disso, a Assistência Social do município atua em parceria, encaminhando periodicamente novas crianças em situação de vulnerabilidade para serem assistidas.
- 
-Apesar da relevância do projeto, sua gestão ainda ocorre de forma informal, o que gera diversos problemas, como: desorganização no agendamento e controle dos motoristas voluntários, ocorrendo por vezes de não haver motorista disponível para buscar crianças que moram mais distantes; ausência de critérios estruturados para identificar e priorizar as famílias em maior necessidade, considerando que a capacidade de atendimento não é grande; falta de centralização das informações sobre cadastros, doações e voluntários, dificultando saber com clareza quanto foi doado, quando, para quem e quem mais necessita; além da dificuldade em acompanhar resultados e medir o impacto real das ações, como o número de famílias alcançadas e a evolução do apoio oferecido.
- 
-Diante desse cenário, surge a necessidade de uma solução tecnológica capaz de trazer mais eficiência, transparência e organização às atividades realizadas, ampliando o alcance e a efetividade do projeto. Essa iniciativa se alinha aos Objetivos de Desenvolvimento Sustentável (ODS) 1 – Erradicação da Pobreza, 2 – Fome Zero e Agricultura Sustentável e 10 – Redução das Desigualdades.
+
+# Contexto
+
+O município de Cristália-MG apresenta diversos desafios sociais relacionados à vulnerabilidade de crianças pertencentes a famílias em situação de carência financeira. Nesse cenário, a Igreja Remanescente Família de Deus desenvolve um projeto social de grande importância comunitária, cujo objetivo é apoiar essas crianças por meio de atividades educativas, espirituais e assistenciais.
+
+O projeto funciona com dois encontros semanais, realizados às terças-feiras e aos sábados. As crianças são transportadas até a igreja em veículos dirigidos por motoristas voluntários, uma vez que a maioria dos pais não possui condições financeiras de levá-las. Durante os encontros, as crianças recebem ensinamentos bíblicos fundamentados na Palavra de Deus, participam de palestras educativas sobre temas relevantes, recebem doações de roupas e cestas básicas organizadas pela comunidade da igreja, além de alimentos arrecadados por meio da “Campanha do Quilo”.
+
+A parceria com o CRAS (Centro de Referência de Assistência Social) amplia o alcance do projeto, uma vez que novos casos de crianças em situação de vulnerabilidade são periodicamente encaminhados para a igreja.
+
+# Problema
+
+Apesar da relevância social, o projeto enfrenta alguns desafios que comprometem sua eficiência:
+
+* Desorganização no agendamento e controle dos motoristas voluntários, ocasionando situações em que não há transporte disponível para algumas crianças.
+* Ausência de critérios claros para identificar e priorizar famílias em maior necessidade, considerando que a capacidade de atendimento é limitada.
+* Falta de centralização das informações sobre cadastros, doações e voluntários, dificultando a gestão de dados como quantidade doada, famílias atendidas e necessidades urgentes.
+* Dificuldade em acompanhar e mensurar os resultados do projeto, como número de crianças assistidas e impacto das ações realizadas.
+
+# Objetivos
+
+O projeto tem como objetivo principal desenvolver uma solução tecnológica simples e acessível para organizar as informações e otimizar a gestão do programa social da igreja.
+
+# Objetivo geral:
+
+Desenvolver uma ferramenta digital, utilizando Excel, que funcione como sistema central de cadastro, organização e análise das informações relacionadas às atividades do projeto.
+
+# Objetivos específicos:
+
+* Criar cadastros de voluntários, famílias e crianças assistidas.
+* Estruturar uma lista de espera organizada para novas crianças encaminhadas.
+* Definir escalas semanais de voluntários de forma mais clara e controlada.
+* Construir um dashboard com indicadores visuais que facilitem o acompanhamento dos resultados.
+* Disponibilizar o sistema por meio de link online, facilitando o acesso dos membros e voluntários.
+
+# Justificativa
+
+A iniciativa busca solucionar problemas de desorganização e falta de controle no projeto, permitindo maior eficiência na gestão de voluntários, cadastros e doações. Além disso, a centralização das informações trará maior transparência e clareza sobre o impacto social da ação, possibilitando prestar contas à comunidade e ampliar parcerias.
+
+Outro ponto relevante é que a proposta se alinha aos Objetivos de Desenvolvimento Sustentável (ODS), em especial:
+
+* ODS 1: Erradicação da Pobreza;
+* ODS 2: Fome Zero e Agricultura Sustentável;
+* ODS 10: Redução das Desigualdades.
+
+Assim, a ferramenta proposta contribuirá para fortalecer a efetividade e a sustentabilidade das ações sociais da igreja, ampliando o alcance às famílias em situação de vulnerabilidade.
+
+# Público-Alvo
+
+O público-alvo direto do projeto é formado por crianças em situação de vulnerabilidade social no município de Cristália-MG e suas famílias. Indiretamente, o projeto também beneficia voluntários, membros da igreja e parceiros institucionais, como o CRAS, que passam a contar com uma ferramenta de apoio à organização e acompanhamento das ações desenvolvidas.
  
 ## Especificação do Projeto
  
