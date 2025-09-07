@@ -41,4 +41,19 @@ BI para gestão do projeto social da Igreja Remanescente Família de Deus em Cri
 
 # Apresentação
 
-<li><a href=""> Apresentação da solução</a></li>
+👋 Bem-vindo ao Social Remanescente
+
+Este repositório apresenta a proposta de uma ferramenta digital simples e acessível desenvolvida em Excel com recursos de Business Intelligence (BI), voltada para apoiar a gestão do projeto social da Igreja Remanescente Família de Deus, em Cristália-MG.
+
+A iniciativa nasceu da necessidade de organizar e centralizar informações sobre famílias atendidas, crianças assistidas, voluntários, motoristas e demais agentes, já que o projeto vinha enfrentando desafios como desorganização nas escalas de transporte, dificuldade em priorizar famílias mais necessitadas e ausência de dados consolidados para medir resultados.
+
+O sistema foi pensado para funcionar como um painel central de gestão comunitária, com:
+
+* Cadastros organizados de famílias, crianças e voluntários;
+* Escalas semanais para motoristas e professores;
+* Lista de espera para novos encaminhamentos;
+* Dashboard interativo com indicadores visuais sobre o impacto do projeto.
+
+De forma prática, os dados inseridos alimentam automaticamente relatórios e gráficos, permitindo acompanhar em tempo real o alcance das ações sociais. O acesso é feito por link online, sem necessidade de softwares adicionais, garantindo praticidade para gestores e voluntários.
+
+Nosso objetivo é tornar o trabalho mais organizado, transparente e eficiente, contribuindo para que mais crianças e famílias em situação de vulnerabilidade possam ser atendidas e para que os resultados sejam acompanhados de forma clara e objetiva.
