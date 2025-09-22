@@ -13,30 +13,49 @@ O projeto funciona com dois encontros semanais, realizados às terças-feiras e 
 A parceria com o CRAS (Centro de Referência de Assistência Social) amplia o alcance do projeto, uma vez que novos casos de crianças em situação de vulnerabilidade são periodicamente encaminhados para a igreja.
 </p>
 
+# Introdução
+<p align="justify">
+No Brasil, a vulnerabilidade infantil segue como um desafio social expressivo: políticas públicas e pesquisas indicam que crianças pertencentes a famílias com baixa renda frequentemente enfrentam múltiplas privações — desde acesso limitado à educação de qualidade até insegurança alimentar e de moradia. Minas Gerais, embora apresente índices médios melhores do que alguns estados do Norte e Nordeste, também abriga localidades com situações bastante críticas, especialmente no Norte de Minas.
+</p>
+
+<p align="justify">
+O município de Cristália, MG, com população recenseada de 5.121 habitantes (Censo IBGE 2022), apresenta uma densidade demográfica muito baixa, de cerca de 6,09 habitantes/km², o que reflete a dispersão geográfica típica de municípios rurais com dificuldades de acesso e infraestrutura. Cerca de 9,41% da população são crianças entre 0 e 6 anos — ou seja, aproximadamente 482 crianças nessa faixa etária residem no município (Primeira Infância Primeiro). O Índice de Desenvolvimento Humano Municipal (IDHM) de Cristália é de 0,583, classificando-se como de desenvolvimento humano médio-baixo, o que indica desafios nos indicadores de renda, longevidade e educação (IBGE).
+Esse contexto local aponta para realidades que corroboram a necessidade de ação social: famílias com poucos recursos, crianças em idade pré-escolar com necessidade de atenção especial, limitações de transporte e acesso a serviços. É neste cenário que a Igreja Remanescente Família de Deus opera um projeto social de relevância comunitária, oferecendo atividades educativas, espirituais e assistenciais para crianças vulneráveis, com transporte provido por voluntários, doações de alimentos e mantimentos, palestras educativas e parceria com o CRAS para identificar novos casos.
+</p>
+  
+<p align="justify">  
+Apesar da importância social dessas ações, persistem desafios operacionais que afetam sua eficácia: ausência de sistema organizado para agendamento e controle de transporte, critérios pouco definidos para priorizar famílias com maior necessidade, cadastros fragmentados, dificuldade de acompanhar resultados quantitativos, entre outros.
+Dessa forma, propõe-se o desenvolvimento de uma solução tecnológica simples e acessível, utilizando o Power BI como plataforma de centralização e visualização de dados. A ferramenta permitirá integrar cadastros de voluntários, famílias e crianças atendidas, estruturar listas de espera, organizar escalas de transporte e, principalmente, criar dashboards dinâmicos com indicadores em tempo real que facilitem a análise do impacto social do projeto. A disponibilização via ambiente online ampliará o engajamento dos voluntários e fortalecerá a transparência da gestão, potencializando o impacto comunitário em Cristália-MG com base em dados confiáveis e análises visuais intuitivas.
+</p>
+
 # Problema
 
-Apesar da relevância social, o projeto enfrenta alguns desafios que comprometem sua eficiência:
+<p align="justify"> 
+Apesar de sua relevância social e do impacto positivo na comunidade, o projeto desenvolvido pela Igreja Remanescente Família de Deus enfrenta desafios significativos que comprometem sua eficiência e dificultam a ampliação do atendimento. Esses obstáculos estão relacionados, principalmente, à falta de organização sistemática e de ferramentas de gestão adequadas. Entre os principais pontos críticos, destacam-se:
+</p>
+  
+- Desorganização logística do transporte voluntário: o agendamento e controle dos motoristas não seguem um fluxo padronizado, o que resulta em situações recorrentes em que não há veículos disponíveis para transportar algumas crianças até a igreja, limitando o alcance do projeto.
+- Ausência de critérios claros de priorização: como a capacidade de atendimento é limitada, faltam parâmetros objetivos que permitam identificar quais famílias e crianças apresentam maior nível de vulnerabilidade e, portanto, devem ser priorizadas na inserção ao projeto.
+- Fragmentação de informações: dados sobre famílias atendidas, crianças cadastradas, voluntários, doações e necessidades emergenciais estão dispersos em anotações manuais ou planilhas independentes. Essa descentralização dificulta a gestão eficiente, além de comprometer a transparência e a comunicação entre os envolvidos.
+- Dificuldade na mensuração de resultados: a ausência de indicadores estruturados impede que o projeto acompanhe de forma clara seu impacto, como o número de crianças beneficiadas, a quantidade de cestas básicas distribuídas, a evolução no engajamento dos voluntários ou mesmo a regularidade das atividades. Essa lacuna dificulta tanto a avaliação interna quanto a prestação de contas à comunidade e parceiros.
 
-* Desorganização no agendamento e controle dos motoristas voluntários, ocasionando situações em que não há transporte disponível para algumas crianças.
-* Ausência de critérios claros para identificar e priorizar famílias em maior necessidade, considerando que a capacidade de atendimento é limitada.
-* Falta de centralização das informações sobre cadastros, doações e voluntários, dificultando a gestão de dados como quantidade doada, famílias atendidas e necessidades urgentes.
-* Dificuldade em acompanhar e mensurar os resultados do projeto, como número de crianças assistidas e impacto das ações realizadas.
 
 # Objetivos
 
-O projeto tem como objetivo principal desenvolver uma solução tecnológica simples e acessível para organizar as informações e otimizar a gestão do programa social da igreja.
+O projeto tem como propósito central desenvolver uma solução tecnológica acessível e adaptada à realidade local, que possibilite organizar, centralizar e analisar os dados de forma estratégica, promovendo maior eficiência na gestão e ampliando a transparência das ações. A meta principal é promover maior eficiência na gestão do projeto social da Igreja Remanescente Família de Deus, garantindo transparência nas ações e ampliando o impacto positivo na comunidade.
+Nesse sentido, torna-se fundamental aplicar a solução em um contexto real, de modo a avaliar a capacidade da equipe em compreender e atender às necessidades do projeto, interpretar corretamente os desafios da gestão social e desenvolver uma ferramenta digital eficaz que apoie a tomada de decisão e fortaleça o alcance do programa.
 
 # Objetivo geral:
 
-Desenvolver uma ferramenta digital, utilizando Excel, que funcione como sistema central de cadastro, organização e análise das informações relacionadas às atividades do projeto.
+Desenvolver uma ferramenta digital, utilizando o Power BI, que funcione como sistema centralizado para cadastro, organização logística e análise de indicadores, permitindo à igreja monitorar de forma dinâmica as informações relacionadas às atividades do projeto social.
 
 # Objetivos específicos:
 
-* Criar cadastros de voluntários, famílias e crianças assistidas.
-* Estruturar uma lista de espera organizada para novas crianças encaminhadas.
-* Definir escalas semanais de voluntários de forma mais clara e controlada.
-* Construir um dashboard com indicadores visuais que facilitem o acompanhamento dos resultados.
-* Disponibilizar o sistema por meio de link online, facilitando o acesso dos membros e voluntários.
+- Criar cadastros integrados de voluntários, famílias e crianças assistidas, facilitando a atualização e consulta de informações em tempo real.
+- Estruturar uma lista de espera organizada e transparente, priorizando casos mais urgentes a partir de critérios objetivos de vulnerabilidade.
+- Automatizar o agendamento e acompanhamento das escalas de voluntários, especialmente motoristas, assegurando maior regularidade e eficiência no transporte das crianças.
+- Construir dashboards interativos no Power BI, com indicadores visuais sobre número de crianças atendidas, famílias beneficiadas, volume de doações, disponibilidade de voluntários e demais métricas de impacto social.
+- Disponibilizar os relatórios e painéis online, permitindo acesso remoto e seguro por parte da equipe organizadora, voluntários e parceiros estratégicos, fortalecendo a transparência e o engajamento da comunidade.
 
 # Justificativa
 <p align="justify">
