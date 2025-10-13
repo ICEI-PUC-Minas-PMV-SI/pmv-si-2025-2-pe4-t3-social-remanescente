@@ -8,7 +8,7 @@ A integração com o Power BI possibilitará a criação de dashboards dinâmico
 </p>
 
 
-## 2.1. Casos de Uso
+## Casos de Uso
 
 | **Persona**                 | **Funcionalidade**                                                | **Motivo**                                                                 |
 |-----------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ A arquitetura do projeto foi planejada para garantir a centralização, integra�
 Imagem 2.2 - Fluxo de dados
 </p>
 
-### 2.2.1 Estrutura Tecnológica
+### Estrutura Tecnológica
 
 A estrutura tecnológica adotada neste projeto visa atender aos requisitos de **acessibilidade**, **baixo custo** e **aplicabilidade em contexto social**.  
 Dessa forma, foram utilizadas exclusivamente ferramentas de fácil acesso e ampla disponibilidade educacional:  
@@ -93,7 +93,7 @@ Os requisitos funcionais e não funcionais principais a serem atendidos são apr
 | RF-08   | Vagas Disponíveis             | Exibir informativos sobre disponibilidade de vagas.                                              | Média      |
 | RF-09   | Notificar Vagas Disponíveis   | Enviar avisos no formato de email sobre a disponibilidade de vagas.                              | Média      |
 
-### 2.4.2. REQUISITOS NÃO FUNCIONAIS
+### REQUISITOS NÃO FUNCIONAIS
 
 | Código  | Título               | Descrição                                                                 | Prioridade |
 |---------|----------------------|---------------------------------------------------------------------------|------------|
