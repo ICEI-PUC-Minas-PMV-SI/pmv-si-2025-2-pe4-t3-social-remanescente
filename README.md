@@ -54,6 +54,6 @@ O sistema foi pensado para funcionar como um painel central de gestão comunitá
 * Lista de espera para novos encaminhamentos;
 * Dashboard interativo com indicadores visuais sobre o impacto do projeto.
 
-De forma prática, os dados inseridos alimentam automaticamente relatórios e gráficos, permitindo acompanhar em tempo real o alcance das ações sociais. O acesso é feito por link online, sem necessidade de softwares adicionais, garantindo praticidade para gestores e voluntários.
+De forma prática, os dados inseridos alimentam automaticamente relatórios e gráficos, permitindo acompanhar em tempo real o alcance das ações sociais. Os resultados e dashboards do Power BI serão integrados ao portal do projeto no Google Sites, funcionando como um ambiente informativo aberto à comunidade, com visualização simplificada e interface intuitiva.
 
 Nosso objetivo é tornar o trabalho mais organizado, transparente e eficiente, contribuindo para que mais crianças e famílias em situação de vulnerabilidade possam ser atendidas e para que os resultados sejam acompanhados de forma clara e objetiva.
