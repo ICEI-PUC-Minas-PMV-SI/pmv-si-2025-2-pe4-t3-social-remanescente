@@ -41,7 +41,10 @@ O **Modelo Dimensional** a seguir ilustra visualmente a estrutura do banco de da
 Ele serve como um **mapa lógico** que orienta tanto a **coleta de dados nas planilhas de origem** quanto a **configuração das relações** no ambiente do **Power BI**.
 
 
-<img width="1399" height="779" alt="image" src="https://github.com/user-attachments/assets/13a4c6f4-f9fb-4647-b86d-e02f4526e42d" />
+<img width="1001" height="552" alt="der" src="https://github.com/user-attachments/assets/7b481400-e7b4-47f5-9e1a-b5805a735230" />
+
+
+<img width="1072" height="523" alt="diagrama-classe drawio" src="https://github.com/user-attachments/assets/134fb19f-8244-49ee-8b81-94816f2ea34e" />
 
 
 ---
