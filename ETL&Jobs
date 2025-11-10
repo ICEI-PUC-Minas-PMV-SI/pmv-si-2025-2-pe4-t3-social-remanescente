@@ -89,6 +89,8 @@ A demonstração do nosso processo é composta por 3 evidências: a configuraç�
 
 A imagem abaixo comprova a configuração do "Job" (onFormSubmit) sendo acionado pelo gatilho "Ao enviar formulário", garantindo a execução automática do ETL.
 
+![Demonstração do Job (Gatilho)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe4-t3-social-remanescente/blob/main/Img/ImagemdosAcionadores.png?raw=true)
+
 ##### Demonstração 2: Resultados da Execução (Antes e Depois)
 
 **Antes (A Extração):**
