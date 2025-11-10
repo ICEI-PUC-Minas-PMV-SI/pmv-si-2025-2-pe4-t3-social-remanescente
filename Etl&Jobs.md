@@ -101,7 +101,8 @@ O usuário preenche os dados no Google Forms.
 
 **Depois (A Carga):**
 
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe4-t3-social-remanescente/blob/main/Img/ImagemTabela.png?raw=true
+![Tabela de Resultados do Job](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe4-t3-social-remanescente/blob/main/Img/ImagemTabela.png?raw=true)
+
 
 Após o envio, os dados são transformados e carregados com sucesso, como visto na planilha (ID 12) e na notificação por e-mail.
 
