@@ -95,6 +95,8 @@ A imagem abaixo comprova a configuração do "Job" (onFormSubmit) sendo acionado
 
 **Antes (A Extração):**
 
+![Formulário de Doação Preenchido](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe4-t3-social-remanescente/blob/main/Img/ImagemFormPreenchido.png?raw=true)
+
 O usuário preenche os dados no Google Forms.
 
 **Depois (A Carga):**
