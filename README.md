@@ -16,7 +16,6 @@ BI para gestão do projeto social da Igreja Remanescente Família de Deus em Cri
 - Jack Medeiros de Paula Pereira Demori
 - Luigi Rodrigo dos Santos de Moura
 - Sebastião Felipe de Oliveira Barros
-- Vitor Casimiro Madureira Souza
 
 ## Orientador(a)
 
@@ -29,15 +28,15 @@ BI para gestão do projeto social da Igreja Remanescente Família de Deus em Cri
 | ETAPA 1 | [Extensão Universitária]()
 | ETAPA 2 | [Escopo do projeto e Grupos de trabalho](escopo.md)                                                 |
 | ETAPA 3 | [Diagnóstico da situação problema](diagnostico.md)                                                  |
-| ETAPA 4 | [Arquitetura do projeto]()<br>[Metodologia do projeto]()                                            |
-| ETAPA 5 | [Portal e BI - Desenvolver a modelagem de dados para o projeto BI]()                                |
+| ETAPA 4 | [Arquitetura do projeto](Arquitetura_Metodologia.md)<br>[Metodologia do projeto](Arquitetura_Metodologia.md)                                            |
+| ETAPA 5 | [Portal e BI - Desenvolver a modelagem de dados para o projeto BI](ModelagemDados.md)                                |
 | ETAPA 6 | [Portal e BI - Integrar as fontes de dados do projeto]()                                            |
 | ETAPA 7 | [Portal e BI - Visualizar os resultados do projeto]()                                               |
 | ETAPA 8 | [Apresentação e/ou implantação da solução para a organização]()                                     |
 
-# Código
+#### Para visualizar a solução Web completa no ambiente online, clique no link abaixo:<br>
 
-<li><a href=""> Código Fonte</a></li>
+<li>https://sites.google.com/view/socialremanescente/in%C3%ADcio</li>
 
 # Apresentação
 
