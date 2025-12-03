@@ -88,10 +88,9 @@ Os requisitos funcionais e não funcionais principais a serem atendidos são apr
 | RF-03   | Dashboard de Indicadores      | Exibir painéis dinâmicos com indicadores sociais (número de famílias atendidas, crianças beneficiadas, doações recebidas, etc.). | Alta       |
 | RF-04   | Relatórios Periódicos         | Exibir relatórios sobre o impacto social, para apoio à gestão e prestação de contas.              | Média      |
 | RF-05   | Gestão de Doações             | Exibir doações recebidas (alimentos, roupas, recursos financeiros) e sua destinação.             | Média      |
-| RF-06   | Integração com CRAS           | Disponibilizar espaço para importação de dados ou relatórios do CRAS, apoiando a identificação de novos casos. | Baixa      |
-| RF-07   | Notificações Internas         | Enviar avisos aos voluntários (ex.: necessidade de transporte, palestras agendadas, mudanças de escala). | Baixa      |
-| RF-08   | Vagas Disponíveis             | Exibir informativos sobre disponibilidade de vagas.                                              | Média      |
-| RF-09   | Notificar Vagas Disponíveis   | Enviar avisos no formato de email sobre a disponibilidade de vagas.                              | Média      |
+
+| RF-06   | Notificações Internas         | Enviar avisos internos (ex.: novos cadastros de usuários, nova doação, novo contato). | Baixa      |
+
 
 ### REQUISITOS NÃO FUNCIONAIS
 
@@ -123,6 +122,8 @@ Os requisitos funcionais e não funcionais principais a serem atendidos são apr
 O presente projeto apresenta como **Produto Mínimo Viável (MVP)** uma solução digital que integra **coleta**, **organização** e **visualização de dados socioassistenciais** do Projeto Social Remanescente.  
 O MVP será desenvolvido utilizando exclusivamente as ferramentas **Power BI** e **Google Sites**, possibilitando a centralização das informações e seu acesso de forma **simples**, **gratuita** e **online**.
 
+O escopo do MVP contempla:
+
 - Cadastro básico de famílias, crianças e voluntários;  
 - Estruturação de dados em planilhas organizadas;  
 - Visualização de indicadores iniciais no Power BI;  
@@ -144,33 +145,25 @@ Após a validação do MVP com o parceiro comunitário detalhado acima, prevê-s
 
 ## Evidências da Ação Extensionista
 
-Este projeto caracteriza-se como uma **ação extensionista** por promover a integração entre a universidade e a comunidade local por meio do desenvolvimento de uma solução tecnológica aplicada ao contexto social.
+Este projeto caracteriza-se como uma ação extensionista por promover a integração entre a universidade e a comunidade local por meio do desenvolvimento de uma solução tecnológica aplicada ao contexto social. As evidências de extensão foram coletadas ao longo de todo o processo e incluem:
 
-As evidências de extensão foram coletadas ao longo de todo o processo e incluem:
+•	Levantamento das necessidades diretamente com lideranças do projeto social;
+•	Participação em reuniões com voluntários e representantes comunitários;
+•	Diagnóstico situacional construído com dados reais;
+•	Desenvolvimento de ferramenta gratuita e acessível para uso continuado pela comunidade;
+•	Estímulo à transparência e à tomada de decisão fundamentada em dados.
 
-- Levantamento das necessidades diretamente com lideranças do projeto social;  
-- Participação em reuniões com voluntários e representantes comunitários;  
-- Diagnóstico situacional construído com dados reais;  
-- Desenvolvimento de ferramenta gratuita e acessível para uso continuado pela comunidade;  
-- Estímulo à transparência e à tomada de decisão fundamentada em dados.
+Ao reunir com a representante da equipe do projeto de apoio infantil Luciane Nayane, foi realizado o levantamento das principais necessidades da comunidade assistida e os requisitos necessários para o desenvolvimento do projeto Social Remanescente. Encontro foi registrado em ATA em setembro de 2025. (Documento em anexo – Ata de Reunião Social Remanescente)
 
-Durante reunião com a representante da equipe do projeto de apoio infantil **Luciane Nayane**, foi realizado o levantamento das principais necessidades da comunidade assistida e os requisitos necessários para o desenvolvimento do **Projeto Social Remanescente**.  
-O encontro foi registrado em **ATA em setembro de 2025**.  
-*(Documento em anexo – Ata de Reunião Social Remanescente)*
+Assim, o projeto reforça o compromisso social da instituição de ensino ao aplicar conhecimentos tecnológicos em benefício direto da comunidade parceira.
 
-Assim, o projeto reforça o **compromisso social da instituição de ensino**, ao aplicar conhecimentos tecnológicos em benefício direto da comunidade parceira.
 
 ---
 
 ## Processamento de Dados Baseados na LGPD
 
-O tratamento de dados obtidos no **Projeto Social Remanescente** será estritamente regido pela **LGPD (Lei Geral de Proteção de Dados)**, dada a sensibilidade das informações envolvidas — como, por exemplo, condição socioeconômica e dados de crianças.
+O tratamento de dados obtidos no projeto Social Remanescente, será estritamente regido pela LGPD (Lei Geral de Proteção de Dados), dada a sensibilidade das informações envolvidas, como a título de exemplo, a condição socioeconômica e dados de crianças. A base legal para o processamento de dados se apoia no Legítimo Interesse da entidade social e na Execução de Políticas Públicas de assistência, garantindo a legalidade de todo o processo obtenção e tratamentos dos dados refente ao projeto Social Remanescente. <br/>
 
-A base legal para o processamento de dados apoia-se no **Legítimo Interesse da entidade social** e na **Execução de Políticas Públicas de assistência**, garantindo a legalidade de todo o processo de obtenção e tratamento dos dados referentes ao projeto.
+Seguindo os princípios da LGPD, coletaremos apenas os dados essenciais para a execução da atividade desempenhada. No Power BI, a privacidade será garantida através da pseudonimização e agregação dos dados para análise de indicadores, com acesso estritamente restrito aos gestores autorizados. O Google Sites, por sua vez, exibirá unicamente indicadores consolidados e estratégicos para o público, assegurando a transparência sem expor dados sensíveis.
 
-Seguindo os princípios da LGPD:
-
-- Serão coletados apenas os **dados essenciais** para a execução da atividade;  
-- No **Power BI**, a privacidade será garantida através da **pseudonimização** e **agregação** dos dados para análise de indicadores, com acesso restrito a **gestores autorizados**;  
-- O **Google Sites** exibirá unicamente **indicadores consolidados e estratégicos**, assegurando a **transparência pública** sem expor **dados sensíveis**.
 
