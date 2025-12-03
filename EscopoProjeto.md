@@ -47,6 +47,10 @@ Nesse sentido, torna-se fundamental aplicar a solução em um contexto real, de 
 
 # Objetivo geral:
 
+O projeto tem como propósito central desenvolver uma solução tecnológica acessível e adaptada à realidade local, que possibilite organizar, centralizar e analisar os dados de forma estratégica, promovendo maior eficiência na gestão e ampliando a transparência das ações. A meta principal é promover maior eficiência na gestão do projeto social da Igreja Remanescente Família de Deus, garantindo transparência nas ações e ampliando o impacto positivo na comunidade. 
+
+Nesse sentido, torna-se fundamental aplicar a solução em um contexto real, de modo a avaliar a capacidade da equipe em compreender e atender às necessidades do projeto, interpretar corretamente os desafios da gestão social e desenvolver uma ferramenta digital eficaz que apoie a tomada de decisão e fortaleça o alcance do programa.
+
 Desenvolver uma ferramenta digital, utilizando o Power BI, que funcione como sistema centralizado para cadastro, organização logística e análise de indicadores, permitindo à igreja monitorar de forma dinâmica as informações relacionadas às atividades do projeto social.
 
 # Objetivos específicos:
