@@ -30,9 +30,9 @@ BI para gestão do projeto social da Igreja Remanescente Família de Deus em Cri
 | ETAPA 3 | [Diagnóstico da situação problema](Diagnostico.md)                                                  |
 | ETAPA 4 | [Arquitetura do projeto](Arquitetura_Metodologia.md)<br>[Metodologia do projeto](Arquitetura_Metodologia.md)                                            |
 | ETAPA 5 | [Portal e BI - Desenvolver a modelagem de dados para o projeto BI](ModelagemDados.md)                                |
-| ETAPA 6 | [Portal e BI - Integrar as fontes de dados do projeto]()                                            |
-| ETAPA 7 | [Portal e BI - Visualizar os resultados do projeto]()                                               |
-| ETAPA 8 | [Apresentação e/ou implantação da solução para a organização]()                                     |
+| ETAPA 6 | [Portal e BI - Integrar as fontes de dados do projeto](ProcessoETL.md)                                            |
+| ETAPA 7 | [Portal e BI - Visualizar os resultados do projeto](VisualizacaoResultados.md)                                               |
+| ETAPA 8 | [Apresentação e/ou implantação da solução para a organização](Apresentacao.md)                                     |
 
 #### Para visualizar a solução Web completa no ambiente online, clique no link abaixo:<br>
 
