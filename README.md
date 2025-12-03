@@ -25,9 +25,9 @@ BI para gestão do projeto social da Igreja Remanescente Família de Deus em Cri
 
 |  Etapa  | Atividades                                                                                          |
 | :-----: | --------------------------------------------------------------------------------------------------- |
-| ETAPA 1 | [Extensão Universitária]()
-| ETAPA 2 | [Escopo do projeto e Grupos de trabalho](escopo.md)                                                 |
-| ETAPA 3 | [Diagnóstico da situação problema](diagnostico.md)                                                  |
+| ETAPA 1 | [Extensão Universitária](ExtensãoUniversitária.md)
+| ETAPA 2 | [Escopo do projeto e Grupos de trabalho](EscopoProjeto.md)                                                 |
+| ETAPA 3 | [Diagnóstico da situação problema](Diagnostico.md)                                                  |
 | ETAPA 4 | [Arquitetura do projeto](Arquitetura_Metodologia.md)<br>[Metodologia do projeto](Arquitetura_Metodologia.md)                                            |
 | ETAPA 5 | [Portal e BI - Desenvolver a modelagem de dados para o projeto BI](ModelagemDados.md)                                |
 | ETAPA 6 | [Portal e BI - Integrar as fontes de dados do projeto]()                                            |
