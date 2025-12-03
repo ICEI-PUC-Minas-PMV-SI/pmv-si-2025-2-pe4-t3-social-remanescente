@@ -14,25 +14,12 @@ Este modelo constitui uma **etapa inicial**, permitindo a realização de **test
 
 
 
-## 2.9 Modelagem de Dados
+## Modelagem de Dados
 
-A fundação da solução de **Business Intelligence (BI)** proposta reside em um **modelo de dados bem estruturado**.  
-A modelagem foi concebida utilizando a abordagem **Star Schema (Esquema Estrela)**, uma metodologia consolidada e amplamente utilizada para **consultas analíticas** e para a **criação de dashboards** em ferramentas como o **Power BI**.
+A fundação da solução de Business Intelligence proposta reside em um modelo de dados bem estruturado. A modelagem foi concebida utilizando a abordagem de Star Schema (Esquema Estrela), uma metodologia consolidada e otimizada para consultas analíticas e a criação de dashboards em ferramentas como o Power BI. Esta escolha metodológica visa atender diretamente aos requisitos de desempenho (RNF-05), escalabilidade (RNF-06) e clareza na geração de relatórios (RF-03, RF-04).
 
-Essa escolha metodológica visa atender diretamente aos requisitos de:
+O modelo é composto por dois tipos principais de tabelas: Tabelas de Dimensão, que armazenam os dados cadastrais e descritivos (quem, o quê, onde), e Tabelas de Fatos, que registram os eventos e as métricas transacionais (o que aconteceu). Essa separação garante que os dados sejam organizados, íntegros e que as análises possam ser realizadas de forma rápida e intuitiva
 
-- **Desempenho (RNF-05)**  
-- **Escalabilidade (RNF-06)**  
-- **Clareza na geração de relatórios (RF-03, RF-04)**  
-
-O modelo é composto por dois tipos principais de tabelas:
-
-- **Tabelas de Dimensão** → armazenam dados cadastrais e descritivos (*quem, o quê, onde*);  
-- **Tabelas de Fatos** → registram eventos e métricas transacionais (*o que aconteceu*).  
-
-Essa separação garante que os dados sejam **organizados**, **íntegros** e que as análises possam ser realizadas de forma **rápida e intuitiva**.
-
----
 
 ### 2.9.1 Modelo Dimensional do Projeto
 
@@ -40,27 +27,18 @@ O **Modelo Dimensional** a seguir ilustra visualmente a estrutura do banco de da
 
 Ele serve como um **mapa lógico** que orienta tanto a **coleta de dados nas planilhas de origem** quanto a **configuração das relações** no ambiente do **Power BI**.
 
+<img width="991" height="552" alt="image" src="https://github.com/user-attachments/assets/b5d418f0-4754-4536-8154-98554edd00e4" />
 
-<img width="1001" height="552" alt="der" src="https://github.com/user-attachments/assets/7b481400-e7b4-47f5-9e1a-b5805a735230" />
 
+---
+
+### Diagrama Entidade Relacionamento (DER)
+
+<img width="933" height="514" alt="image" src="https://github.com/user-attachments/assets/e117b460-8392-4282-b884-61027677374f" />
+
+
+---
+
+### Diagrama de Classes
 
 <img width="1072" height="523" alt="diagrama-classe drawio" src="https://github.com/user-attachments/assets/134fb19f-8244-49ee-8b81-94816f2ea34e" />
-
-
----
-
-### 2.9.2 Dicionário de Dados
-
-O **Dicionário de Dados** detalha a finalidade de cada tabela e descreve o propósito de cada um de seus campos.  
-Essa documentação técnica é essencial para:
-
-- Desenvolvimento e manutenção da solução;  
-- Padronização das informações;  
-- Clareza e consistência nas análises e relatórios.
-
----
-
-### 2.9.3 Tabelas de Dimensão
-
-As **Tabelas de Dimensão** contêm os **dados mestres e descritivos** do projeto.  
-Elas constituem a base para a **filtragem**, **segmentação** e **contextualização** dos indicadores apresentados nos dashboards.
