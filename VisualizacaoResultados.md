@@ -1,15 +1,20 @@
 ### Painel/Dashboard Social Remanescente (PowerBi Desktop) 
 
 <img width="989" height="494" alt="image" src="https://github.com/user-attachments/assets/5c95f992-05ea-4b30-8f4a-47c2f5e7c3cb" />
-Unidade 02 – KPI’s Projeto Social Remanescente
+Unidade 02 – KPI’s Projeto Social Remanescente <br/>
 
+<br/>
 <img width="989" height="495" alt="image" src="https://github.com/user-attachments/assets/2521191c-7128-4097-b8ab-5b13f44eb845" />
-Unidade 03 – Gráficos, filtros e medidas
+Unidade 03 – Gráficos, filtros e medidas <br/>
+
+<br/>
+<img width="1362" height="708" alt="image" src="https://github.com/user-attachments/assets/e0a96dde-5461-457d-87d0-ad327d513d90" />
+Integração PowerBi com google sites <br/>
 
 <br/>
 <br/>
 
-##Processos de Obtenção das Medidas (DAX – Power BI)
+## Processos de Obtenção das Medidas (DAX – Power BI)
 
 
 1. Total de Crianças no Projeto
@@ -44,5 +49,9 @@ Total de Famílias Atendidas = DISTINCTCOUNT(Familias[ID_Familia])
 5. Valor Total de Doações Financeiras (R$)
 Essa medida calcula o valor total de doações financeiras somando os valores da coluna [Quantidade] da tabela 'Doacoes', considerando apenas os registros em que o campo [Tipo_Doacao] é igual a “Financeira”.
 Valor Total de Doações Financeiras (R$) = CALCULATE(SUM('Doacoes'[Quantidade]),'Doacoes'[Tipo_Doacao] = "Financeira")
+
+
+
+
 
 
