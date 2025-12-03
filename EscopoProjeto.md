@@ -81,7 +81,9 @@ Assim, a ferramenta proposta contribuirá para fortalecer a efetividade e a sust
 
 # Público-Alvo
 
-O público-alvo direto do projeto é formado por crianças em situação de vulnerabilidade social no município de Cristália-MG e suas famílias. Indiretamente, o projeto também beneficia voluntários, membros da igreja e parceiros institucionais, como o CRAS, que passam a contar com uma ferramenta de apoio à organização e acompanhamento das ações desenvolvidas.
+O público-alvo central da solução "Social Remanescente" são as crianças em situação de vulnerabilidade e suas famílias de baixa renda no município de Cristália, MG. O projeto existe para organizar e otimizar o atendimento assistencial e educacional oferecido pela Igreja Remanescente Família de Deus, que busca identificar e priorizar os casos de maior necessidade social através dos indicadores gerados pelo sistema. A meta final é garantir que a gestão logística do programa, como o controle de vagas, seja eficiente para que mais crianças e famílias carentes sejam alcançadas e beneficiadas pelas ações.
+
+Em um nível de utilização operacional, a solução é destinada aos gestores e voluntários da igreja do município. Esses usuários são os responsáveis por alimentar o sistema, gerir os cadastros, administrar as escalas de voluntários e utilizar os dashboards do Power BI para tomar decisões estratégicas. Além disso, a plataforma cumpre um papel de transparência e comunicação, servindo também como fonte de consulta para a comunidade em geral e potenciais doadores, que podem acompanhar o impacto social do projeto.
  
 ## Especificação do Projeto
 
@@ -90,15 +92,15 @@ O presente projeto extensionista tem como objetivo desenvolver uma solução em 
 </p>
 
 <p align="justify"> 
-O objetivo geral consiste em criar um sistema em Excel, estruturado com menus interativos, tabelas de cadastro e dashboards visuais, capaz de organizar as informações do projeto social, otimizar processos e fornecer relatórios de impacto. Entre os objetivos específicos, destacam-se: criar cadastros organizados de voluntários (motoristas e professores) e famílias atendidas; estruturar uma lista de espera para crianças encaminhadas pelo CRAS, voluntários ou pela própria igreja; implementar uma escala semanal de voluntários; desenvolver um dashboard geral com indicadores de quantidade de crianças atendidas, famílias alcançadas e voluntários ativos; e fornecer acesso online via link, permitindo que diferentes membros possam utilizar a ferramenta sem necessidade de softwares complexos.
+O objetivo geral consiste em criar um sistema em Power BI, estruturado com menus interativos, tabelas de cadastro e dashboards visuais, capaz de organizar as informações do projeto social, otimizar processos e fornecer relatórios de impacto. Entre os objetivos específicos, destacam-se: criar cadastros organizados de voluntários (motoristas e professores) e famílias atendidas; estruturar uma lista de espera para crianças, voluntários ou pela própria igreja; implementar uma escala semanal de voluntários; desenvolver um dashboard geral com indicadores de quantidade de crianças atendidas, famílias alcançadas e voluntários ativos; e fornecer acesso online via link, permitindo que diferentes membros possam utilizar a ferramenta sem necessidade de softwares complexos.
 </p>
 
 <p align="justify"> 
-A metodologia será baseada em três componentes principais: um menu lateral interativo, criado com botões que direcionam para cada funcionalidade (Cadastro de Voluntários, Cadastro Familiar, Escala Semanal de Voluntários e Dashboard Geral); tabelas estruturadas para organizar as informações de motoristas, professores, famílias e listas de espera; e um dashboard geral, com indicadores e gráficos dinâmicos que permitem acompanhar os resultados de forma clara e rápida.
+A metodologia será baseada em três componentes principais: um formulário interativo, criado com botões que direcionam para cada funcionalidade (Cadastro de Voluntários, Cadastro Familiar, Escala Semanal de Voluntários e Dashboard Geral); tabelas estruturadas para organizar as informações de famílias, crianças em uma listas de beneficiários; e um dashboard geral, com indicadores e gráficos dinâmicos que permitem acompanhar os resultados de forma clara e rápida.
 </p>
 
 <p align="justify"> 
-O fluxo de operação será simples: os voluntários, o CRAS ou membros da igreja preencherão os cadastros; as informações alimentarão automaticamente as planilhas auxiliares e listas de espera; os dashboards serão atualizados em tempo real, permitindo a análise dos dados; e os gestores poderão acessar a ferramenta de forma prática por meio de link compartilhado.
+O fluxo de operação será simples: os voluntários, pessoas interessadas ou membros da igreja com acesso a internet preencherão os formulários de cadastro presentes no site do projeto Social Remanescente. As informações alimentarão automaticamente as planilhas auxiliares e listas de espera; os dashboards serão atualizados em tempo real, permitindo a análise dos dados; e os gestores poderão acessar a ferramenta de forma prática por meio de link compartilhado.
 </p>
 
 <p align="justify">  
